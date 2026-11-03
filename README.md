@@ -1,1 +1,1 @@
-https://duygusezer-frontend.vercel.app/events/event-1
+https://duygusezer-frontend.vercel.app/
