@@ -1,1 +1,1 @@
-siprint6-vize-mlyli76bm-duygu7.vercel.app
+https://duygusezer-frontend.vercel.app/events/event-1
